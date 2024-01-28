@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "generate-keypair", "generate-keypair\generate-keypair.csproj", "{682BA0A4-DC0F-4CD7-869B-EBE6B1C3AAFC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{682BA0A4-DC0F-4CD7-869B-EBE6B1C3AAFC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{682BA0A4-DC0F-4CD7-869B-EBE6B1C3AAFC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{682BA0A4-DC0F-4CD7-869B-EBE6B1C3AAFC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{682BA0A4-DC0F-4CD7-869B-EBE6B1C3AAFC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
